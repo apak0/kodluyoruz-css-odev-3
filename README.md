@@ -1,0 +1,1 @@
+## Kodluyoruz patika.dev için hazırladığım Google clone css ödevidir.
